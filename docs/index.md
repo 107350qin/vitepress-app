@@ -6,6 +6,9 @@ hero:
   name: "6点下班"
   text: "给生活腾一点时间"
   tagline: 失业的日子里寻点事儿做...
+  image:
+    src: /logo.svg
+    alt: VitePress
   actions:
     - theme: brand
       text: 权益
