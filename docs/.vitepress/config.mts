@@ -5,8 +5,9 @@ export default defineConfig({
   title: "6点下班",
   base: '/vitepress-app/',
   description: "6点下班，给生活腾一点时间",
+  head: [['link', { rel: 'icon', href: '/vitepress-app/logo.svg' }]],
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/favicon.ico',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
