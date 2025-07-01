@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/repo/',
   title: "6点下班",
+  base: '/vitepress-app/',
   description: "6点下班，给生活腾一点时间",
   themeConfig: {
     logo: '.vitepress/theme/logo.svg',
