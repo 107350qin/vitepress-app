@@ -1,0 +1,8 @@
+.VPNavBarTitle .title {
+  font-size: 1.4rem;
+}
+
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: #f4089a;
+}
