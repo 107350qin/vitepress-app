@@ -1,0 +1,5 @@
+# 忽略构建产物
+docs/.vitepress/dist/
+
+# 忽略私密草稿
+node_modules
